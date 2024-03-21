@@ -1,0 +1,8 @@
+.card {
+    /* Add custom styles here */
+    transition: transform 0.2s; /* Animation */
+}
+
+.card:hover {
+    transform: scale(1.05); /* Slightly enlarge cards on hover */
+}
